@@ -1,0 +1,9 @@
+.no-border{
+  border: none;
+}
+.no-border:hover{
+  border: none;
+}
+.light-color{
+  color: #fff;
+}
